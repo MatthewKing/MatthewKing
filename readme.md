@@ -9,3 +9,5 @@ Here are some relevant links:
 * [My Stack Overflow profile](https://www.stackoverflow.com/users/286936/matthewking)
 * [My LinkedIn profile](https://www.linkedin.com/in/MatthewKingAU)
 * [My resume](https://mking.net/resume)
+
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewKing&count_private=true&show_icons=true)
