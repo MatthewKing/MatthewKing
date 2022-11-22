@@ -5,7 +5,8 @@ I sometimes [blog](https://mking.net/blog) about software development, and I hav
 
 Here are some relevant links:
 
-* [My blog](https://mking.net/blog)
-* [My Stack Overflow profile](https://www.stackoverflow.com/users/286936/matthewking)
-* [My LinkedIn profile](https://www.linkedin.com/in/MatthewKingAU)
-* [My resume](https://mking.net/resume)
+* <a rel="me" href="https://mking.net/blog">My blog</a>
+* <a rel="me" href="https://mking.net/resume">My resume</a>
+* [Me on Stack Overflow](https://www.stackoverflow.com/users/286936/matthewking)
+* [Me on LinkedIn](https://www.linkedin.com/in/MatthewKingAU)
+* <a rel="me" href="https://hachyderm.io/@mking">Me on Mastodon</a>
